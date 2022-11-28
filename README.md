@@ -1,14 +1,14 @@
 <div align="center">
   <!-- Logo -->
   <a href="https://github.com/knoxvillie/libft">
-  <img src="images/logo.png" alt="Logo" width="80" height="80">
+  <img src="images/logo.png" alt="Logo" width="100" height="100">
   </a>
 
   <!-- Project Name -->
-  <h1>Libft Project</h1>
+  <h1>Get Next Line Project</h1>
 
   <!-- Short Description -->
-  <p>42 Porto Libft</p>
+  <p>42 Porto get_next_line</p>
 </br>
 
   <!-- Badges -->
