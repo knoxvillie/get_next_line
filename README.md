@@ -49,18 +49,17 @@
   <summary>Mandatory Part One</summary>
   <ul>
   <details>
-    <summary>ft_itoa.c</summary>
+    <summary>get_next_line.c</summary>
     <p>Allocates (with malloc(3)) and returns a string representing the integer received as an argument.Negative numbers must be handled.</p>
     </details>
   <details>
-    <summary>ft_putchar_fd.c</summary>
+    <summary>get_next_line.h</summary>
     <p>Outputs the character 'c' to the given file descriptor.</p>
     </details>
   <details>
-    <summary>ft_putendl_fd.c</summary>
+    <summary>get_next_line_utils.c</summary>
     <p>Outputs the string 's' to the given file descriptor followed by a newline.</p>
     </details>
-  <details>
   </ul>
 </details>
 
