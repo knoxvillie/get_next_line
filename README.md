@@ -8,7 +8,7 @@
   <h1>Get Next Line Project</h1>
 
   <!-- Short Description -->
-  <p>42 Porto get_next_line</p>
+  <h3>42 Porto get_next_line</h3>
 </br>
 
   <!-- Badges -->
