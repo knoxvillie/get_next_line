@@ -38,7 +38,8 @@
 
   <h2>:star2: About The Project</h2>
   <p>
-    The main goal of this project is to build a library containing a variety of functions that will be used throughout the 42 Cursus. Most of the functions are low-level and work directly with memory management and allocation, key concepts of the C language. Learning about the building and implementation of the Makefile is the core of the project.
+   The goal of the project is to create a script that opens a text file in read mode and reads a predefined amount of bytes (BUFFER_SIZE), until the end of a line is reached. When the number of bytes in the line is not a multiple of (BUFFER_SIZE), the read function will read bytes that do not belong to the line in question, but to the next line. As a result, this project reads and returns one line at a time from a file, whenever the get_next_line function is executed.
+  The bonus part handles multiple text files simultaneously.
   </p>
 </div>
 
